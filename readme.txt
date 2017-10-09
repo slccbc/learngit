@@ -8,3 +8,4 @@ git file.
 
 remote file
 Creating a new branch is quick.
+sts add
